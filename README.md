@@ -65,12 +65,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sehyeogg365&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/sehyeogg365"
-    width="600"
-    height="120"
-  />
-</a>
+[![My Gitanimal Farm](https://render.gitanimals.org/farms/sehyeogg365)](https://gitanimals.org/sehyeogg365)
+
   
 </div>
