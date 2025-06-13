@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**sehyeog365/sehyeog365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sehyeogg365/sehyeogg365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeog365&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeogg365&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <br><br>
 <div align="center">
@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sehyeog365"/>
+  <img src="https://render.gitanimals.org/farms/sehyeogg365"/>
 </a>
 </div>
