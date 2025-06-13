@@ -65,7 +65,9 @@ Here are some ideas to get you started:
 <br>
 
 
-[![My Gitanimal Farm](https://render.gitanimals.org/farms/sehyeogg365)](https://gitanimals.org/sehyeogg365)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{sehyeogg365}"/>
+</a>
 
   
 </div>
