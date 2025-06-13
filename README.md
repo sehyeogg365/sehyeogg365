@@ -64,7 +64,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/>
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sehyeogg365"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sehyeogg365&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sehyeogg365"
+    width="600"
+    height="120"
+  />
 </a>
+  
 </div>
