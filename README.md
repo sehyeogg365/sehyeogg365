@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2306a53c-d3e9-44f0-b266-47028377a432)## Hi there 👋
+## Hi there 👋
 
 <!--
 **sehyeogg365/sehyeogg365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
