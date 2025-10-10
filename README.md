@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br><br>
 <!--<div align="center">-->
 <div>
- ✨<b>Tech Stack</b>✨<br><br>
+ 🚀<b>Tech Stack</b><br><br>
 
 <b>Frontend</b><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
