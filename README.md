@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <br><br>
 <!--<div align="center">-->
 <div>
- 🚀<b>Tech Stack</b><br><br>
-
+ 
+ <!--  🚀<b>Tech Stack</b><br><br>-->
+ <!-- 
 <b>Frontend</b><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
 <br>
 
- <!-- 
+
 <b>Platforms&Languages</b><br><br>
 <img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
