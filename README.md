@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br><br>
 <!--<div align="center">-->
-<div>
+<div align="center">
  
 <!-- 🚀<b>Tech Stack</b><br><br>
 
